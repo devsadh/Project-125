@@ -1,0 +1,21 @@
+#head{
+    font-size: xx-large;
+    font-family: 'Dancing Script';
+}
+
+#note{
+    font-family: 'Great Vibes';
+    font-size: x-large;
+    font-weight: 500;
+}
+
+#fontsize{
+    font-family: 'Edu NSW ACT Foundation';
+    font-size: larger;
+    color: black;
+}
+
+canvas{
+    border-radius: 10px;
+    
+}
